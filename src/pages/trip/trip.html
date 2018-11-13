@@ -1,0 +1,34 @@
+<ion-header>
+  <div *ngIf="!!tripData" class="header">
+    <ion-grid>
+      <ion-row><h1>{{ tripData.title }}</h1></ion-row>
+      <ion-row>
+        <ion-col>Depuis le {{ tripData.from | date: "shortDate" }}</ion-col>
+        <ion-col>{{ tripData.nb_days }} jours</ion-col>
+      </ion-row>
+      <progress-bar progress="30"></progress-bar>
+      <ion-row>
+        <ion-col>
+          {{ tripData.budget_per_day * tripData.nb_days }} € <br />
+          Dépenses
+        </ion-col>
+        <ion-col> / </ion-col>
+        <ion-col> {{ tripData.budget_per_day * tripData.nb_days }} € <br />Budget</ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
+</ion-header>
+<ion-content>
+  <div class="expenses">
+    <ion-grid *ngIf="!!expensesData">
+      <ion-row>
+        <ion-col col-4 *ngFor="let exp of expensesData">
+          <div class="category" (click)="showCategoryExpenses(exp)">
+            <ion-icon name="{{exp.icon}}" item-start></ion-icon>
+            <p>{{ exp.category }}<br />{{ exp.total }}</p>
+          </div>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
+</ion-content>

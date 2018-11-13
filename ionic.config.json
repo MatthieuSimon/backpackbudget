@@ -1,0 +1,7 @@
+{
+  "name": "backpackapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

@@ -1,0 +1,17 @@
+<ion-header>
+  <h1>{{ expensesForCategory.category }}</h1>
+  <p>Dépenses {{ expensesForCategory.total }} €</p>
+</ion-header>
+<ion-content>
+  <div class="expenses">
+    <ion-grid *ngIf="!!expensesForCategory">
+      <ion-row *ngFor="let exp of expensesForCategory.expenses">
+        <ion-col class="date"> {{ exp.date | date: "shortDate" }}</ion-col>
+        <ion-col class="description"> {{ exp.description }}</ion-col>
+        <ion-col class="total"> {{ exp.total }} </ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
+</ion-content>
+
+<ion-footer> <ion-toolbar class="plus" (click)="addExpense()"> + </ion-toolbar> </ion-footer>

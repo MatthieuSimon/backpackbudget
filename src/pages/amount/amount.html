@@ -1,0 +1,16 @@
+<ion-content>
+  <h1>Add to expense ?</h1>
+  <div class="amount">{{ amount }}</div>
+  <ion-grid>
+    <ion-row>
+      <ion-col col-4 *ngFor="let i of [1, 2, 3, 4, 5, 6, 7, 8, 9]">
+        <div (click)="addNumber(i)">{{ i }}</div>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col (click)="removeNumber()"> <ion-icon name="backspace"></ion-icon> </ion-col>
+      <ion-col (click)="addNumber(0)"> 0 </ion-col>
+      <ion-col (click)="addExpense()"> <ion-icon name="checkmark"></ion-icon> </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

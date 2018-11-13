@@ -1,0 +1,25 @@
+page-category {
+  ion-header {
+    text-align: center;
+  }
+
+  ion-row {
+    background-color: #eee;
+    padding: 10px;
+  }
+
+  .grid {
+    padding: 0px;
+  }
+
+  .total {
+    text-align: right;
+  }
+  .description {
+    width: 80%;
+  }
+  .plus {
+    text-align: center;
+    font-size: 36px;
+  }
+}

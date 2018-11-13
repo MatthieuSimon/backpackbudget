@@ -1,0 +1,29 @@
+[{
+  "id": 1,
+  "title": "Transport",
+  "icon": "bus"
+}, {
+  "id": 2,
+  "title": "Nourriture",
+  "icon": "restaurant"
+}, {
+  "id": 3,
+  "title": "Hébergement",
+  "icon": "home"
+}, {
+  "id": 4,
+  "title": "Activités",
+  "icon": "walk"
+}, {
+  "id": 5,
+  "title": "Extras",
+  "icon": "star"
+}, {
+  "id": 6,
+  "title": "Matériel",
+  "icon": "star"
+}, {
+  "id": 7,
+  "title": "Santé",
+  "icon": "star"
+}]

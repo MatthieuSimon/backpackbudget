@@ -1,0 +1,367 @@
+[
+  {
+    "total": 35,
+    "currency": "EUR",
+    "date": "2018-08-13",
+    "description": "Vaccins typhoïde",
+    "category": "Hébergement"
+  },
+  {
+    "total": 180,
+    "currency": "EUR",
+    "date": "2018-08-12",
+    "description": "Sac à dos",
+    "category": "Matériel"
+  },
+  {
+    "total": 20,
+    "currency": "EUR",
+    "date": "2018-10-13",
+    "description": "Hotel",
+    "category": "Hébergement"
+  },
+  {
+    "total": 8,
+    "currency": "EUR",
+    "date": "2018-10-13",
+    "description": "Restaurant",
+    "category": "Nourriture"
+  },
+
+  {
+    "total": 3,
+    "currency": "EUR",
+    "date": "2018-10-10",
+    "description": "Musée",
+    "category": "Activités"
+  },
+  {
+    "total": 8,
+    "currency": "EUR",
+    "date": "2018-10-10",
+    "description": "Bus",
+    "category": "Transport"
+  },
+  {
+    "total": 210,
+    "currency": "EUR",
+    "date": "2018-10-10",
+    "description": "Auberge de jeunesse",
+    "category": "Santé"
+  },
+  {
+    "total": 3,
+    "currency": "EUR",
+    "date": "2018-10-10",
+    "description": "Petit déjeuner",
+    "category": "Nourriture"
+  },
+
+  {
+    "total": 20,
+    "currency": "EUR",
+    "date": "2018-11-13",
+    "description": "Hotel",
+    "category": "Hébergement"
+  },
+  {
+    "total": 8,
+    "currency": "EUR",
+    "date": "2018-11-13",
+    "description": "Restaurant",
+    "category": "Nourriture"
+  },
+
+  {
+    "total": 3,
+    "currency": "EUR",
+    "date": "2018-11-10",
+    "description": "Musée",
+    "category": "Activités"
+  },
+  {
+    "total": 8,
+    "currency": "EUR",
+    "date": "2018-11-12",
+    "description": "Bus",
+    "category": "Transport"
+  },
+  {
+    "total": 21,
+    "currency": "EUR",
+    "date": "2018-11-12",
+    "description": "Auberge de jeunesse",
+    "category": "Hébergement"
+  },
+  {
+    "total": 3,
+    "currency": "EUR",
+    "date": "2018-11-12",
+    "description": "Petit déjeuner",
+    "category": "Nourriture"
+  },
+
+  {
+    "total": 20,
+    "currency": "EUR",
+    "date": "2018-10-13",
+    "description": "Hotel",
+    "category": "Hébergement"
+  },
+  {
+    "total": 8,
+    "currency": "EUR",
+    "date": "2018-10-13",
+    "description": "Restaurant",
+    "category": "Nourriture"
+  },
+
+  {
+    "total": 3,
+    "currency": "EUR",
+    "date": "2018-10-12",
+    "description": "Musée",
+    "category": "Activités"
+  },
+  {
+    "total": 8,
+    "currency": "EUR",
+    "date": "2018-12-12",
+    "description": "Bus",
+    "category": "Transport"
+  },
+  {
+    "total": 21,
+    "currency": "EUR",
+    "date": "2018-12-12",
+    "description": "Auberge de jeunesse",
+    "category": "Santé"
+  },
+  {
+    "total": 3,
+    "currency": "EUR",
+    "date": "2018-12-12",
+    "description": "Petit déjeuner",
+    "category": "Nourriture"
+  },
+
+  {
+    "total": 20,
+    "currency": "EUR",
+    "date": "2018-12-13",
+    "description": "Hotel",
+    "category": "Hébergement"
+  },
+  {
+    "total": 8,
+    "currency": "EUR",
+    "date": "2019-01-13",
+    "description": "Restaurant",
+    "category": "Nourriture"
+  },
+
+  {
+    "total": 3,
+    "currency": "EUR",
+    "date": "2019-01-12",
+    "description": "Musée",
+    "category": "Activités"
+  },
+  {
+    "total": 8,
+    "currency": "EUR",
+    "date": "2019-01-12",
+    "description": "Bus",
+    "category": "Transport"
+  },
+  {
+    "total": 21,
+    "currency": "EUR",
+    "date": "2019-01-12",
+    "description": "Auberge de jeunesse",
+    "category": "Hébergement"
+  },
+  {
+    "total": 3,
+    "currency": "EUR",
+    "date": "2019-01-12",
+    "description": "Petit déjeuner",
+    "category": "Nourriture"
+  },
+
+  {
+    "total": 20,
+    "currency": "EUR",
+    "date": "2019-02-13",
+    "description": "Hotel",
+    "category": "Hébergement"
+  },
+  {
+    "total": 8,
+    "currency": "EUR",
+    "date": "2019-02-13",
+    "description": "Restaurant",
+    "category": "Nourriture"
+  },
+
+  {
+    "total": 3,
+    "currency": "EUR",
+    "date": "2019-02-12",
+    "description": "Musée",
+    "category": "Activités"
+  },
+  {
+    "total": 8,
+    "currency": "EUR",
+    "date": "2019-02-12",
+    "description": "Bus",
+    "category": "Transport"
+  },
+  {
+    "total": 21,
+    "currency": "EUR",
+    "date": "2019-02-12",
+    "description": "Auberge de jeunesse",
+    "category": "Hébergement"
+  },
+  {
+    "total": 3,
+    "currency": "EUR",
+    "date": "2019-02-12",
+    "description": "Petit déjeuner",
+    "category": "Nourriture"
+  },
+
+  {
+    "total": 20,
+    "currency": "EUR",
+    "date": "2019-02-13",
+    "description": "Hotel",
+    "category": "Hébergement"
+  },
+  {
+    "total": 8,
+    "currency": "EUR",
+    "date": "2019-03-13",
+    "description": "Restaurant",
+    "category": "Nourriture"
+  },
+
+  {
+    "total": 3,
+    "currency": "EUR",
+    "date": "2019-03-12",
+    "description": "Musée",
+    "category": "Activités"
+  },
+  {
+    "total": 8,
+    "currency": "EUR",
+    "date": "2019-03-12",
+    "description": "Bus",
+    "category": "Transport"
+  },
+  {
+    "total": 21,
+    "currency": "EUR",
+    "date": "2019-03-12",
+    "description": "Auberge de jeunesse",
+    "category": "Hébergement"
+  },
+  {
+    "total": 3,
+    "currency": "EUR",
+    "date": "2019-03-12",
+    "description": "Petit déjeuner",
+    "category": "Nourriture"
+  },
+
+  {
+    "total": 20,
+    "currency": "EUR",
+    "date": "2019-03-13",
+    "description": "Hotel",
+    "category": "Hébergement"
+  },
+  {
+    "total": 8,
+    "currency": "EUR",
+    "date": "2019-03-13",
+    "description": "Restaurant",
+    "category": "Nourriture"
+  },
+
+  {
+    "total": 3,
+    "currency": "EUR",
+    "date": "2019-03-12",
+    "description": "Musée",
+    "category": "Activités"
+  },
+  {
+    "total": 8,
+    "currency": "EUR",
+    "date": "2019-03-12",
+    "description": "Bus",
+    "category": "Transport"
+  },
+  {
+    "total": 21,
+    "currency": "EUR",
+    "date": "2018-12-12",
+    "description": "Auberge de jeunesse",
+    "category": "Hébergement"
+  },
+  {
+    "total": 3,
+    "currency": "EUR",
+    "date": "2018-12-12",
+    "description": "Petit déjeuner",
+    "category": "Nourriture"
+  },
+
+  {
+    "total": 20,
+    "currency": "EUR",
+    "date": "2019-04-13",
+    "description": "Hotel",
+    "category": "Hébergement"
+  },
+  {
+    "total": 8,
+    "currency": "EUR",
+    "date": "2019-04-13",
+    "description": "Restaurant",
+    "category": "Nourriture"
+  },
+
+  {
+    "total": 3,
+    "currency": "EUR",
+    "date": "2019-04-12",
+    "description": "Musée",
+    "category": "Activités"
+  },
+  {
+    "total": 8,
+    "currency": "EUR",
+    "date": "2019-04-12",
+    "description": "Bus",
+    "category": "Transport"
+  },
+  {
+    "total": 21,
+    "currency": "EUR",
+    "date": "2019-01-12",
+    "description": "Auberge de jeunesse",
+    "category": "Hébergement"
+  },
+  {
+    "total": 3,
+    "currency": "EUR",
+    "date": "2019-01-12",
+    "description": "Petit déjeuner",
+    "category": "Nourriture"
+  }
+]

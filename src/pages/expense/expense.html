@@ -1,0 +1,7 @@
+<ion-content padding>
+  <ion-item>
+    <ion-label color="primary">Description</ion-label>
+    <ion-input [(ngModel)]="description" placeholder="Description"></ion-input>
+  </ion-item>
+</ion-content>
+<ion-footer (click)="addExpense()"> <b>{{ !!description ? "Valider" : "Passer" }}</b> </ion-footer>
